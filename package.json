@@ -1,6 +1,6 @@
 {
   "name": "@muhammedsaidckr/mmm-simplebackgroundslideshow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MMM-SimpleBackgroundSlideshow is a module for MagicMirror² that allows you to display a simple, customizable background slideshow on your MagicMirror²",
   "main": "MMM-SimpleBackgroundSlideshow.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MagicMirrorOrg/MagicMirror.git"
+    "url": "git+https://github.com/muhammedsaidckr/MMM-SimpleBackgroundSlideshow"
   },
   "dependencies": {
     "jquery": "^3.7.1"
   },
   "bugs": {
-    "url": "https://github.com/MagicMirrorOrg/MagicMirror/issues"
+    "url": "https://github.com/muhammedsaidckr/MMM-SimpleBackgroundSlideshow/issues"
   },
-  "homepage": "https://github.com/MagicMirrorOrg/MagicMirror#readme",
+  "homepage": "https://github.com/muhammedsaidckr/MMM-SimpleBackgroundSlideshow#readme",
   "keywords": [
     "magicmirror",
     "magicmirror2",
