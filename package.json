@@ -1,17 +1,34 @@
 {
-	"name": "mmm-simplebackgroundslideshow",
-	"version": "1.0.0",
-	"description": "",
-	"main": "MMM-SimpleBackgroundSlideshow.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/MagicMirrorOrg/MagicMirror.git"
-	},
-	"private": true,
-	"dependencies": {
-		"jquery": "^3.7.1"
-	}
+  "name": "@muhammedsaidckr/mmm-simplebackgroundslideshow",
+  "version": "1.0.0",
+  "description": "MMM-SimpleBackgroundSlideshow is a module for MagicMirror² that allows you to display a simple, customizable background slideshow on your MagicMirror²",
+  "main": "MMM-SimpleBackgroundSlideshow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicMirrorOrg/MagicMirror.git"
+  },
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "bugs": {
+    "url": "https://github.com/MagicMirrorOrg/MagicMirror/issues"
+  },
+  "homepage": "https://github.com/MagicMirrorOrg/MagicMirror#readme",
+  "keywords": [
+    "magicmirror",
+    "magicmirror2",
+    "magicmirror-module",
+    "background-slideshow",
+    "slideshow",
+    "background-images",
+    "mirror-ui",
+    "smart-mirror",
+    "photo-slideshow"
+  ],
+  "author": "Muhammed Said Cakir",
+  "license": "MIT"
 }
