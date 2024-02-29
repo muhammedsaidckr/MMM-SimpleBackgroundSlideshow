@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/MagicMirrorOrg/MagicMirror.git"
   },
-  "private": false,
   "dependencies": {
     "jquery": "^3.7.1"
   },
