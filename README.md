@@ -1,4 +1,9 @@
 # MMM-SimpleBackgroundSlideshow
+[![npm version](https://badge.fury.io/js/%muhammedsaidckr%2Fmmm-simplebackgroundslideshow.svg)](https://www.npmjs.com/package/@muhammedsaidckr/mmm-simplebackgroundslideshow)
+[![npm downloads](https://img.shields.io/npm/dt/%muhammedsaidckr%2Fmmm-simplebackgroundslideshow.svg)](https://www.npmjs.com/package/@muhammedsaidckr/mmm-simplebackgroundslideshow)
+[![npm license](https://img.shields.io/npm/l/%muhammedsaidckr%2Fmmm-simplebackgroundslideshow.svg)](https://www.npmjs.com/package/@muhammedsaidckr/mmm-simplebackgroundslideshow)
+
+
 MMM-SimpleBackgroundSlideshow is a module for MagicMirror² that allows you to display a simple, customizable background slideshow on your MagicMirror². This module is designed to be lightweight and easy to configure, making it the perfect addition to any MagicMirror² setup.
 
 ## Installation
