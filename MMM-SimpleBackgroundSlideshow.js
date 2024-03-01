@@ -42,7 +42,7 @@ Module.register("MMM-SimpleBackgroundSlideshow", {
 			if (JSON.stringify(this.config.urls) !== JSON.stringify(payload.urls)) {
 				this.config.urls = payload.urls; // Update the URLs
 				$("#vegas-slideshow").vegas("destroy"); // Destroy the current instance
-				this.initializeSlideshow(this.config); // Reinitialize with new settings
+				this.initializeSlideshow(payload); // Reinitialize with new settings
 			}
 		}
 	},
@@ -51,13 +51,11 @@ Module.register("MMM-SimpleBackgroundSlideshow", {
 		// Map URLs for the slideshow
 		let urls = settings.urls.map(url => ({src: url}));
 
-		console.log(settings);
 
 		if(settings.color) {
 			this.config.color = settings.color;
 		}
 
-		console.log(settings.transitionDuration || this.defaults.transitionDuration)
 
 		// Use settings or fallback to defaults
 		$(document).ready(() => {
