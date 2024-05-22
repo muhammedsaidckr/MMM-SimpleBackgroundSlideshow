@@ -2,4 +2,5 @@
     width: 100%;
     height: 100%;
     position: absolute;
+    inset: calc(-1 * var(--gap-body-top)) calc(-1 * var(--gap-body-right)) calc(-1 * var(--gap-body-bottom)) calc(-1 * var(--gap-body-left));
 }
